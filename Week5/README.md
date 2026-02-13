@@ -142,12 +142,3 @@ After completing Week 5, I can:
 
 ---
 
-# 🔜 Next Step
-
-**Week 6 – Convolutional Neural Networks (CNN) & Computer Vision Project**
-
-* Convolution & pooling
-* Image feature extraction
-* Face recognition system
-
-🚀 Moving toward **advanced Deep Learning & Generative AI**.
